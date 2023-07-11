@@ -31,6 +31,7 @@ This process involves three main steps including:
 - Install Web Server Installer 
 - Install osTicket 
 - Install HeidiSQL
+- Complete OsTicket Installation 
 
 <h2>Installation Steps</h2>
 
