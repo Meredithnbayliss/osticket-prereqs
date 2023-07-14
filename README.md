@@ -63,4 +63,4 @@ In step 4, we install / Enable IIS in Windows. Go to your Search Bar > Type "Con
 
 </p>
 <br />
-<img src="https://i.imgur.com/X5Ccbr3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/N10VQV5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
