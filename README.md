@@ -59,7 +59,7 @@ In step 3, we open the Remote Desktop Connection app on our computer. A remote d
 
 <img src="https://i.imgur.com/7rFwxkw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-In step 4, we install / Enable IIS in Windows. Go to your Search Bar > Type "Control Panel" > Click "Programs" > "Turn Windows features on or off" > Scroll down to "Internet Information Services (IIS).
+In step 4, we install / Enable IIS in Windows. IIS is a web server that OS Ticket runs on. Go to your Search Bar > Type "Control Panel" > Click "Programs" > "Turn Windows features on or off" > Scroll down to "Internet Information Services (IIS).
 
 </p>
 <br />
