@@ -84,3 +84,7 @@ and Install PHP Manager 1.5.0 for IIS 10. We Register PHP from within IIS. Then,
 </p>
 <br />
 <img src="https://i.imgur.com/dyAWT6J.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
+In Step 7, we download OsTicket v1.15.8
