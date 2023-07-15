@@ -76,7 +76,8 @@ In step 5, we check that IIS is installed properly. Then we install  MySQL 5.5, 
 <img src="https://i.imgur.com/u1Cm2YT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-In step 6, we Register PHP from within IIS. Then, we Reload IIS, and restart the server
+In step 6, we Fix any failures if required. Then we Install PHP Version 7.3.8, Install Microsoft Visual C++ 2009 Redistributable Package (if necessary).
+and Install PHP Manager 1.5.0 for IIS 10. We Register PHP from within IIS. Then, we Reload IIS, and restart the server
 </p>
 <br />
 <img src="https://i.imgur.com/VGmw14Z.png" alt="Disk Sanitization Steps"/>
