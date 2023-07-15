@@ -116,6 +116,10 @@ you should see OS Ticket installer running
 </p>
 </p>
 <br />
+<img src="https://i.imgur.com/acaPPwi.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
 In step 9, we Note that some extensions are not enabled. to enable them, 
 Go back to IIS, sites -> Default -> osTicket
 Double-click PHP Manager
