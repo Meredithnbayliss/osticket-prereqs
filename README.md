@@ -67,16 +67,19 @@ In step 4, we install / Enable IIS in Windows. IIS is a web server that OS Ticke
 </p>
 In step 5, we check that IIS is installed properly. Then we install  MySQL 5.5 We will add credentials to access this software by using the username: root and password of our choice.
 </p>
-<br />
+<br  />
 </p>
-In step 7, we Register PHP from within IIS. Then, we Reload IIS, and restart the server)
-</p>
-<br />
-
-
-<p>
 <img src="https://i.imgur.com/els5NeM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <img src="https://i.imgur.com/u1Cm2YT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+In step 6, we Register PHP from within IIS. Then, we Reload IIS, and restart the server
+</p>
+<br />
+<img src="https://i.imgur.com/VGmw14Z.png" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<img src="https://i.imgur.com/dyAWT6J.png" alt="Disk Sanitization Steps"/>
