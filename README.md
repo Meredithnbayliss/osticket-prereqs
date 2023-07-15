@@ -105,13 +105,17 @@ and Within c:\inetpub\wwwroot, we Rename “upload” to “osTicket”
 Im step 8, we TheReload IIS (Open IIS, Stop and Start the server). Next, we Go to sites -> Default -> osTicket
 On the right, click “Browse *:80”
 you should see OS Ticket installer running 
-
-
-pic
-pic
-pic
-
-
+</p>
+</p>
+<br />
+<img src="https://i.imgur.com/ycv6kbK.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
+<img src="https://i.imgur.com/gRyUNTe.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
 In step 9, we Note that some extensions are not enabled. to enable them, 
 Go back to IIS, sites -> Default -> osTicket
 Double-click PHP Manager
