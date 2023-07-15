@@ -143,24 +143,38 @@ Refresh the osTicket site in your browse, observe the changes
 </p>
 <br />
 <img src="https://i.imgur.com/uJCI4mj.png" alt="Disk Sanitization Steps"/>
-
-
-
+</p>
+</p>
+<br />
 In step 10, We Rename: ost-config.php
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
-
-pic
-pic
-pic
-
+</p>
+</p>
+<br />
+<img src="https://i.imgur.com/1Ve7bvD.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
 In step 11, we Assign Permissions: ost-config.php
 Disable inheritance -> Remove All
 New Permissions -> Everyone -> All
+</p>
+</p>
+<br />
+<img src="https://i.imgur.com/wMA08IR.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
+<img src="https://i.imgur.com/MR66gSA.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
+<img src="https://i.imgur.com/aFv2vCI.png" alt="Disk Sanitization Steps"/>
 
-pic
-pic
-pic
+
+
+
 
 In step 12, Continue Setting up osTicket in the browser (click Continue)
 Name Helpdesk
