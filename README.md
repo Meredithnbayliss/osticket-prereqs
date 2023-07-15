@@ -71,6 +71,7 @@ In step 5, we install and open the Web Platform Installer and MySQL 5.5 We will 
 
 <p>
 <img src="https://i.imgur.com/els5NeM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+</p>
+<br />
 
 <img src="https://i.imgur.com/u1Cm2YT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
