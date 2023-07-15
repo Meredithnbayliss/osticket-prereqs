@@ -135,21 +135,16 @@ Enable: php_opcache.dll
 </p>
 <br />
 <img src="https://i.imgur.com/YMYmSiN.png" alt="Disk Sanitization Steps"/>
-
-
-
-
-
-
-
-
-
-
+</p>
+</p>
+<br />
 Refresh the osTicket site in your browse, observe the changes
+</p>
+</p>
+<br />
+<img src="https://i.imgur.com/uJCI4mj.png" alt="Disk Sanitization Steps"/>
 
-pic
-pic
-pic
+
 
 In step 10, We Rename: ost-config.php
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
