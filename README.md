@@ -171,28 +171,43 @@ New Permissions -> Everyone -> All
 </p>
 <br />
 <img src="https://i.imgur.com/aFv2vCI.png" alt="Disk Sanitization Steps"/>
-
-
-
-
-
+</p>
+</p>
+<br />
 In step 12, Continue Setting up osTicket in the browser (click Continue)
 Name Helpdesk
 Default email (receives email from customers)
-pic 
-pic
-pic
-
+</p>
+</p>
+<br />
+<img src="https://i.imgur.com/kBUcPwX.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
+<img src="https://i.imgur.com/pyr9YHW.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
 In step 13, From the Installation Files, download and install HeidiSQL.
 Open Heidi SQL
 Create a new session, root/Password1
 Connect to the session
 Create a database called “osTicket”
-
-pic
-pic
-pic
-
+</p>
+</p>
+<br />
+<img src="https://i.imgur.com/SBFVQaE.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
+<img src="https://i.imgur.com/wvALons.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
+<img src="https://i.imgur.com/DE7QMnc.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
 In step 14, we Continue Setting up osticket in the browser
 MySQL Database: osTicket
 MySQL Username: root
