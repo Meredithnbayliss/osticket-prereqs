@@ -213,11 +213,17 @@ MySQL Database: osTicket
 MySQL Username: root
 MySQL Password: Password1
 Click “Install Now!”
-
-pic
-pic
-pic
-
+</p>
+</p>
+<br />
+<img src="https://i.imgur.com/dxBgE4R.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
+<img src="https://i.imgur.com/tUHjPH7.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
 In step 15, Congratulations, hopefully it is installed with no errors!
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 
