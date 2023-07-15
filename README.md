@@ -127,6 +127,24 @@ Click “Enable or disable an extension”
 Enable: php_imap.dll
 Enable: php_intl.dll
 Enable: php_opcache.dll
+</p>
+</p>
+<br />
+<img src="https://i.imgur.com/dahz2DQ.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
+<img src="https://i.imgur.com/YMYmSiN.png" alt="Disk Sanitization Steps"/>
+
+
+
+
+
+
+
+
+
+
 Refresh the osTicket site in your browse, observe the changes
 
 pic
