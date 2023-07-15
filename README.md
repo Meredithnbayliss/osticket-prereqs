@@ -64,3 +64,13 @@ In step 4, we install / Enable IIS in Windows. IIS is a web server that OS Ticke
 </p>
 <br />
 <img src="https://i.imgur.com/N10VQV5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+In step 5, we install and open the Web Platform Installer and MySQL 5.5 We will add credentials to access this software by using the username: root and password of our choice.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/els5NeM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+<img src="https://i.imgur.com/u1Cm2YT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
