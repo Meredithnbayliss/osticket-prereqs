@@ -65,7 +65,7 @@ In step 4, we install / Enable IIS in Windows. IIS is a web server that OS Ticke
 <br />
 <img src="https://i.imgur.com/N10VQV5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-In step 5, we check that IIS is installed properly. Then we install  MySQL 5.5 We will add credentials to access this software by using the username: root and password of our choice.
+In step 5, we check that IIS is installed properly. Then we install  MySQL 5.5, which will be used as the database OSTicket operates with. We will add credentials to access this software by using the username: root and password of our choice.
 </p>
 <br  />
 </p>
