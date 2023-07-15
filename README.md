@@ -87,4 +87,17 @@ and Install PHP Manager 1.5.0 for IIS 10. We Register PHP from within IIS. Then,
 </p>
 </p>
 <br />
-In Step 7, we download OsTicket v1.15.8
+In Step 7, we download OsTicket v1.15.8. We Download osTicket from the Installation Files Folder. Then we Extract and copy “upload” folder to c:\inetpub\wwwroot
+and Within c:\inetpub\wwwroot, we Rename “upload” to “osTicket”
+</p>
+</p>
+<br />
+<img src="https://i.imgur.com/3irPmfV.png" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<img src="https://i.imgur.com/AClNLPE.png" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<img src="https://i.imgur.com/mgKYLDf.png" width="80%" alt="Disk Sanitization Steps"/>
+
+
