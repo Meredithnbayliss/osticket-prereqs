@@ -78,7 +78,7 @@ and Install PHP Manager 1.5.0 for IIS 10. We Register PHP from within IIS. Then,
 </p>
 </p>
 <br />
-In Step 7, we download OsTicket v1.15.8. We Download osTicket from the Installation Files Folder. Then we Extract and copy “upload” folder to c:\inetpub\wwwroot
+In Step 7, we download OsTicket v1.15.8. Then we Extract and copy “upload” folder to c:\inetpub\wwwroot
 and Within c:\inetpub\wwwroot, we Rename “upload” to “osTicket”
 </p>
 </p>
@@ -93,9 +93,8 @@ and Within c:\inetpub\wwwroot, we Rename “upload” to “osTicket”
 </p>
 </p>
 <br />
-Im step 8, we TheReload IIS (Open IIS, Stop and Start the server). Next, we Go to sites -> Default -> osTicket
-On the right, click “Browse *:80”
-you should see OS Ticket installer running 
+Im step 8, we reload IIS (Open IIS, Stop and Start the server). Next, we Go to sites -> Default -> osTicket
+On the right, click “Browse *:80” We do this to check that OS Ticket installer running properly. You should see the intaller screen as shown below: 
 </p>
 </p>
 <br />
@@ -111,10 +110,8 @@ you should see OS Ticket installer running
 </p>
 </p>
 <br />
-In step 9, we Note that some extensions are not enabled. to enable them, 
-Go back to IIS, sites -> Default -> osTicket
-Double-click PHP Manager
-Click “Enable or disable an extension”
+In step 9, we note that some extensions are not enabled on OsTicket. To enable them, 
+we go back to IIS, sites -> Default -> osTicket. Then, we double-click PHP Manager and click “Enable or disable an extension.”
 Enable: php_imap.dll
 Enable: php_intl.dll
 Enable: php_opcache.dll
@@ -129,7 +126,7 @@ Enable: php_opcache.dll
 </p>
 </p>
 <br />
-Refresh the osTicket site in your browse, observe the changes
+We Refresh the osTicket site in our browser, and observe the change that more extentions are now enabled in OsTicket . 
 </p>
 </p>
 <br />
@@ -147,7 +144,8 @@ To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 </p>
 </p>
 <br />
-In step 11, we Assign Permissions: ost-config.php
+In step 11, we Assign Permissions in OsTicket. This is important because the permisions designate who can control and use OsTicket. For now, we will allow "everyone" to use OsTicket in our permissions.  We go to 
+ost-config.php
 Disable inheritance -> Remove All
 New Permissions -> Everyone -> All
 </p>
@@ -165,9 +163,7 @@ New Permissions -> Everyone -> All
 </p>
 </p>
 <br />
-In step 12, Continue Setting up osTicket in the browser (click Continue)
-Name Helpdesk
-Default email (receives email from customers)
+In step 12, we continue Setting up osTicket in the browser (click Continue), name our Helpdesk, and create our default email (receives email from customers)
 </p>
 </p>
 <br />
