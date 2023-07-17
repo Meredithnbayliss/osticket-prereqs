@@ -226,12 +226,19 @@ Click “Install Now!”
 <br />
 In step 15, Congratulations, hopefully it is installed with no errors!
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php
-
 End Users osTicket URL:
 http://localhost/osTicket/ 
-
-pic
-
+</p>
+</p>
+<br />
+<img src="https://i.imgur.com/4rGw5NM.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
+<img src="https://i.imgur.com/907nRbO.png" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
 Step 16, Clean up
 Delete: C:\inetpub\wwwroot\osTicket\setup
 Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
@@ -239,5 +246,3 @@ Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-conf
 Notes:
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
 End Users osTicket URL: http://localhost/osTicket/ 
-
-
