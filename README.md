@@ -144,8 +144,7 @@ To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 </p>
 </p>
 <br />
-In step 11, we Assign Permissions in OsTicket. This is important because the permisions designate who can control and use OsTicket. For now, we will allow "everyone" to use OsTicket in our permissions.  We go to 
-ost-config.php
+In step 11, we Assign Permissions in OsTicket. This is important because the permisions designate who can control and use OsTicket. For now, we will allow "everyone" to use OsTicket in our permissions.  We go to ost-config.php
 Disable inheritance -> Remove All
 New Permissions -> Everyone -> All
 </p>
@@ -175,9 +174,9 @@ In step 12, we continue Setting up osTicket in the browser (click Continue), nam
 </p>
 </p>
 <br />
-In step 13, From the Installation Files, download and install HeidiSQL.
+In step 13, we, download and install HeidiSQL to create the database for OsTicket to operate on.
 Open Heidi SQL
-Create a new session, root/Password1
+Create a new session, username: root and password of our choice.
 Connect to the session
 Create a database called “osTicket”
 </p>
@@ -195,7 +194,7 @@ Create a database called “osTicket”
 </p>
 </p>
 <br />
-In step 14, we Continue Setting up osticket in the browser
+In step 14, we continue setting up osticket in the broswer and sign in with our username and password.
 MySQL Database: osTicket
 MySQL Username: root
 MySQL Password: Password1
@@ -211,7 +210,7 @@ Click “Install Now!”
 </p>
 </p>
 <br />
-In step 15, Congratulations, hopefully it is installed with no errors!
+In step 15, Congratulations, we have successfully installed OsTicket. You can now practice working IT tickets through this platform.
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 End Users osTicket URL:
 http://localhost/osTicket/ 
@@ -226,10 +225,3 @@ http://localhost/osTicket/
 </p>
 </p>
 <br />
-Step 16, Clean up
-Delete: C:\inetpub\wwwroot\osTicket\setup
-Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
-
-Notes:
-Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
-End Users osTicket URL: http://localhost/osTicket/ 
