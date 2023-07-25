@@ -40,7 +40,7 @@ In step 2, we create a Windows 10 Virtual Machine (VM) with 2-4 virtual CPU's in
 <img src="https://i.imgur.com/zUJXPhs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In step 3, we open the Remote Desktop Connection app on our computer. A remote desktop is an internet-enabled program or operating system feature that lets someone access a computer from a different location, just as if they were interacting with the device locally. We will be using this to connect to the Virtual Machine we created in Azure. 
+In step 3, we open the Remote Desktop Connection app on our computer. 
 </p>
 <br />
 
@@ -94,7 +94,7 @@ and Within c:\inetpub\wwwroot, we Rename “upload” to “osTicket”
 </p>
 <br />
 Im step 8, we reload IIS (Open IIS, Stop and Start the server). Next, we Go to sites -> Default -> osTicket
-On the right, click “Browse *:80” We do this to check that OS Ticket installer running properly. You should see the intaller screen as shown below: 
+On the right, click “Browse *:80” We do this to check that OS Ticket installer running properly. We should see the intaller screen as shown below: 
 </p>
 </p>
 <br />
@@ -162,7 +162,7 @@ New Permissions -> Everyone -> All
 </p>
 </p>
 <br />
-In step 12, we continue Setting up osTicket in the browser (click Continue), name our Helpdesk, and create our default email (receives email from customers)
+In step 12, we continue Setting up osTicket in the browser (click Continue), name our Helpdesk (in this case I named it Meredith's Helpdesk), and create our default email (receives email from customers)
 </p>
 </p>
 <br />
@@ -195,9 +195,6 @@ Create a database called “osTicket”
 </p>
 <br />
 In step 14, we continue setting up osticket in the broswer and sign in with our username and password.
-MySQL Database: osTicket
-MySQL Username: root
-MySQL Password: Password1
 Click “Install Now!”
 </p>
 </p>
